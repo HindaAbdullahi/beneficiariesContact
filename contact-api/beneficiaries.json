@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "avatar": "https://placekitten.com/50/50",
+    "fullName": "Mohamed Abdirahman",
+    "mobile": "617753324",
+    "targetGroup": "Teacher"
+  },
+  {
+    "id": 2,
+    "avatar": "https://placekitten.com/50/50",
+    "fullName": "Hassan Ali",
+    "mobile": "627753324",
+    "targetGroup": "Principle"
+  },
+  {
+    "id": 3,
+    "avatar": "https://placekitten.com/50/50",
+    "fullName": "Hinda Abdullahi",
+    "mobile": "627753324",
+    "targetGroup": "Household"
+  },
+  {
+    "id": 4,
+    "avatar": "https://placekitten.com/50/50",
+    "fullName": "Cali",
+    "mobile": "907753324",
+    "targetGroup": "FHW"
+  },
+  {
+    "id": 5,
+    "avatar": "https://placekitten.com/50/50",
+    "fullName": "Nadaara",
+    "mobile": "777753324",
+    "targetGroup": "FHS"
+  }
+]
